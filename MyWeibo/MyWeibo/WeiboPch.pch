@@ -1,0 +1,9 @@
+//
+//  WeiboPch.pch
+//  MyWeibo
+//
+//  Created by CKK on 15/10/9.
+//  Copyright © 2015年 CKK. All rights reserved.
+//
+
+#import "Common.h"
